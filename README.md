@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | React.js, Next.js & React Native</h3>
 
 <p align="center">
-  I build web and mobile products—from responsive interfaces and e-commerce marketplaces to SaaS dashboards, API integrations, and location-based business applications.
+  I build web and mobile products from responsive interfaces and e-commerce marketplaces to SaaS dashboards, API integrations, and location-based business applications.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **BS in Software Engineering** — University of Karachi (UBIT), graduated 2023.
+- 🎓 **BS in Software Engineering** from University of Karachi (UBIT), graduated 2023.
 - 💼 Full-stack and frontend-focused developer with experience delivering web, mobile, marketplace, and SaaS products.
 - 🌐 Experienced with React.js, Next.js, React Native, API integration, e-commerce workflows, dashboards, and AI-powered features.
 - 📱 Have worked on cross-platform mobile apps and app-store release workflows.
