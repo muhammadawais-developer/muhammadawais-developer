@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-awais-8727491a0"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/muhammadawais-businessways"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/muhammadawais-developer"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:awais.dev2serve@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -167,16 +167,16 @@ These projects are from my earlier development portfolio and may be demos or lea
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadawais-businessways&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub profile statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadawais-businessways&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadawais-developer&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub profile statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadawais-developer&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammadawais-businessways&hide_border=true&theme=transparent" alt="GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com?user=muhammadawais-developer&hide_border=true&theme=transparent" alt="GitHub contribution streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadawais-businessways&hide_border=true&theme=github-compact" alt="GitHub activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadawais-developer&hide_border=true&theme=github-compact" alt="GitHub activity graph">
 </p>
 
 *These cards are generated from GitHub data by third-party services. Private repository activity may not be reflected in all cards, and language statistics depend on available repository data.*
@@ -187,6 +187,6 @@ These projects are from my earlier development portfolio and may be demos or lea
 
 - **LinkedIn:** [Muhammad Awais](https://www.linkedin.com/in/muhammad-awais-8727491a0)
 - **Email:** [awais.dev2serve@gmail.com](mailto:awais.dev2serve@gmail.com)
-- **GitHub:** [@muhammadawais-businessways](https://github.com/muhammadawais-businessways)
+- **GitHub:** [@muhammadawais-developer](https://github.com/muhammadawais-developer)
 
 <p align="center"><i>Building practical digital products, one feature at a time.</i></p>
