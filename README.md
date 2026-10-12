@@ -128,27 +128,6 @@ A therapy and meditation-oriented platform supporting online bookings and audio/
 - Online booking workflows.
 - **Technologies:** Web frontend, mobile app development, APIs, booking integrations.
 
-### 8. AI-Powered SaaS Applications
-A collection of business software projects with AI and third-party service integrations.
-
-- AI feature integration into web and mobile products.
-- API-driven product functionality and business workflows.
-- **Technologies:** React, Next.js, REST APIs, OpenAI API and related integrations as required.
-
-### 9. Attendance Management Platforms
-Business-focused attendance and employee-management solutions.
-
-- Attendance tracking, employee workflows, and reporting features.
-- QR/location-aware functionality where required.
-- **Technologies:** React, React Native, APIs, GPS/location services.
-
-### 10. Facility Management Solutions
-Software workflows for managing facility-related services and business operations.
-
-- Web-based management interfaces and operational workflows.
-- API integration and deployment support.
-- **Technologies:** React/Next.js, APIs, backend integrations.
-
 ### Earlier Portfolio Projects
 These projects are from my earlier development portfolio and may be demos or learning projects rather than current commercial products.
 
@@ -164,24 +143,6 @@ These projects are from my earlier development portfolio and may be demos or lea
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadawais-developer&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub profile statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadawais-developer&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammadawais-developer&hide_border=true&theme=transparent" alt="GitHub contribution streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadawais-developer&hide_border=true&theme=github-compact" alt="GitHub activity graph">
-</p>
-
-*These cards are generated from GitHub data by third-party services. Private repository activity may not be reflected in all cards, and language statistics depend on available repository data.*
-
----
 
 ## 🤝 Connect With Me
 
